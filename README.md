@@ -1,8 +1,6 @@
 # HMFSplitViewController
 A custom implementation of a splitViewController that allows you to reize the right-hand view in IB
 
-Usage:
-
 In viewDidLoad use setupLeftView and setupRightView to create the splitView.
 
 ```obj-c
