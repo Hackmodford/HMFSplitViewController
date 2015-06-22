@@ -23,4 +23,7 @@ In viewDidLoad use setupLeftView and setupRightView to create the splitView.
 @end
 ```
 
-Right now the splitViewController creates a navigationController for each view.
+If you want to change the width of the views just modify HMFSplitViewController.xib to your liking.
+I currently set the right hand view to always be 320px wide.
+
+The splitViewController creates a navigationController for each view. This might be worth changing int he future, just let me know.
