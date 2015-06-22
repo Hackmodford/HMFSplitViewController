@@ -5,7 +5,7 @@ Usage:
 
 In viewDidLoad use setupLeftView and setupRightView to create the splitView.
 
-```
+```obj-c
 @implementation SubclassOfHMFOrderSplitViewController
 
 -(void)viewDidLoad {
